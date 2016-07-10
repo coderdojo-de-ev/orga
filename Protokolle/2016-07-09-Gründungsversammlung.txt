@@ -1,0 +1,72 @@
+Protokoll Vereinsgründung "CoderDojo Deutschalnd e.V."
+
+Anwesenheit siehe Zettel. Bite alle unterschreiben.
+
+1. Begrüßung
+    Motivation
+        weniger Probleme in rechtlichen Dingen, über den Verien abgesichert als Einzelner
+        Persönliche Haftung momentan. Haftung ueber Verein bei Teilnahme an Vereinsveranstaltungen.
+        Verein als Rahmer für Veranstaltungen
+        Spendenquittungen + Firmenkonto
+        Ausgaben koennen ueber das Vereinskonto bezahlt werden
+        
+2. Feststellung der Anzahl der Stimmberechtigten Teilnehmer
+    alle Vereinsmitglieder ueber 18 Jahren sind stimmberechtigt
+    7 Mitglieder sind noetig um den Verein zu gruenden.
+    Feststellung: Anzahl der Teilnehmer reicht aus
+    
+3. Genehmigung der Tagesordnung
+    genehmigt
+
+4. Aussprache ueber die Gruendung des CoderDojo Deutschland e.V.
+    Satzung kopiert vom CCC, mit Aenderungen.
+    Link auf die Satzung https://docs.google.com/document/d/1nz6rj3iUgGK8Hqgp4E1QPWTMI3CJyOFR45XDmRICJbs/edit?pref=2&pli=1
+    Praeambel leicht gekuerzt und korrigiert.
+    CoderDojo Deutschland Gründen
+     - in Italien und anderswo werden länderspezifische Stiftungen gegründet, sowas machen wir hier auch
+    Keine Zuwendung; Fahrtkostenerstattung ist ok.
+    Festzuhalten: Jemand anders darf geldlich gefördert werden, wenn ohne das Geld die Möglichkeit verbaut würde, dem Verseinszweck zu 
+    Vorschlag: Namensaenderung von "CoderDojo Deutschland" zu "CoderDojo Berlin/Brandenburg"
+    Klargestellt: Wer Mitglied des Vereins ist, ist durch den Verein versichert und auch die Veranstaltung.
+    Textform: Email ist auch Textform
+    Geklärt: Echtzeitkommunikation ist mit drin
+    Geklärt: Vorstand bleibt intakt, bis ein neuer gewählt wurde
+
+
+Wahl des Vorstandes:
+Vorgeschlagen wurden:
+
+    Nicco Kunzmann
+    Karsten Himmer
+    Ricardo Wurmus
+    Roman Messer
+    Eleonore Stirnberg
+
+Es sind (noch) 11 stimmberechtigte Personen anwesend.
+Abgegebene Stimmen:
+
+Nicco: 9
+Karsten: 9
+Ricardo: 7
+Roman: 7
+Eleonore: 5
+
+Nicco bemerkt, dass die Mehrheitswahl Minderheiten (in diesem Fall zur Wahl stehende Frauen) benachteiligt.
+
+Stichwahl zwischen Ricardo und Roman: Roman gewinnt 7 zu 4.
+Der gewaehlte Vorstand ist: Nicco, Karsten, Roman (Schatzmeister).
+
+Kurze Pause um die Satzung auszudrucken.
+
+Alle unterschrieben die Satzung
+Weiteres Vorgehen:
+- Schreiben des Protokolls und der Satzung an Die Mailinglisten
+
+
+Probleme, TODOS:
+    - Wer ist stimmberechtigt, wie ist es mit Minderjährigen
+    - Name des Vereins stößt andere vor den Kopf. Umbenennung:
+        - Ziel: CoderDojos in Deutschland mit drunter bringen.
+    - Mindestbeitrag soll die minimal moegliche Beitragshoehe von 10 EUR/Jahr sein
+    - "Der Vorstand sind zwei ..." sollte das zurück kommen, dass das gegen die satzung spricht, können wir das von einem bestehenden versin kopieren, von Roman Messer
+
